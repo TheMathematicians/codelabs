@@ -1,5 +1,14 @@
 # Angularbasic
 
+## Topics covered in this demo
+
+* Interpolation
+* Two way binding using `ngModel`
+* `ngIf` & `ngFor` directives
+* Service Provider 
+* Basic Routing
+* Basic HttpRequest
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.2.
 
 ## Development server
